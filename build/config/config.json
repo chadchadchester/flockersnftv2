@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x644D29bD78ac8880Ccacd2122D9EE0A624A61e82",
+  "SCAN_LINK": "https://etherscan.io/address/0x644d29bd78ac8880ccacd2122d9ee0a624a61e82",
+  "NETWORK": {
+    "NAME": "Mainnet",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Flockers NFT",
+  "SYMBOL": "FLOCK",
+  "MAX_SUPPLY": 2125,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/flockersnft",
+  "SHOW_BACKGROUND": true
+}
